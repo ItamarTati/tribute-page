@@ -7,7 +7,7 @@ let Data = {'title':'Miyamoto Musashi (宮本 武蔵)',
                         richer, quicker, or smarter. Everything is within. Everything exists. Seek nothing outside 
                         of yourself.” Miyamoto Musashi (宮本 武蔵)`,
             'website' : `Musashi Miyamoto.com`,
-            'websiteURL': "http://www.musashi-miyamoto.com"
+            'websiteURL': "https://www.musashi-miyamoto.com/"
             
             }
 
